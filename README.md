@@ -1,7 +1,7 @@
 <!-- Profile README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mk+Hossain;A+Pro+Level+Full-Stack+Developer;Crafting+code+with+elegance+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mk+Hossain;A+Pro+Level+Full-Stack+Developer;Crafting+code+with+elegance+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <p align="center">
