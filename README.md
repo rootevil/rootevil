@@ -1,23 +1,16 @@
-<h1 align="center">🕶️ Mk Hosain</h1>
-<h2 align="center"><code>@rootevil — Full-Stack Coder | Red Team Architect | Systems Alchemist</code></h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF007C&center=true&vCenter=true&width=800&lines=I+write+code+that+leaves+no+trace.;I+build+apps+that+outlive+trends.;I+reverse+what+others+accept+as+truth.;Welcome+to+my+domain.">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36F9F6&center=true&vCenter=true&width=900&lines=Welcome+to+the+Lab+of+Mk+Hosain.;Pro+Coder+%7C+Tech+Architect+%7C+@rootevil;Where+Ideas+Turn+Into+Code+and+Code+Turns+Into+Power." alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🧠 WHOAMI
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:36f9f6&height=250&section=header&text=Mk%20Hosain%20(@rootevil)&fontSize=50&fontColor=ffffff&animation=twinkling" />
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ```bash
-> whoami
-└─ Mk Hosain aka @rootevil
-
-> occupation
-└─ Full-stack developer by day, system breaker by night
-
-> stack --list
-└─ JS | TS | Python | Node | React | Next.js | Docker | Linux | MongoDB | PostgreSQL
-
-> mission
-└─ Write scalable code. Exploit inefficiencies. Architect cyber resilience.
+> Mk Hosain ~ Full-Stack Developer | Cyber Architect | Code Strategist
